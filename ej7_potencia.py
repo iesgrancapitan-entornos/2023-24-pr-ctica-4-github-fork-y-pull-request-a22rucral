@@ -1,5 +1,5 @@
 # Programa que calcule la potencia de un numero
-
+# Luis Hidalgo Santaella
 # Alejandro Ruiz
 
 base = int(input('Dime la base de la potencia '))
